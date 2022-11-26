@@ -40,14 +40,14 @@ p{
     color: midnightblue;
     display: table-cell;
     vertical-align: middle;
-    width: 85vw;
-    height: 85vw;
+    width: 70vw;
+    height: 70vw;
 }
 #contact details{
-    background-color:gold;
+    background-color:#8a2be2;
     color:lawngreen;
     display: table-cell;
     vertical-align: middle;
-    width:85vw;
-    height:85vw;
+    width:70vw;
+    height:70vw;
 }
