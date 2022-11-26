@@ -1,1 +1,53 @@
-
+nav{
+    position: fixed;
+    width: 100%;
+    text-align: middle;
+    font-size: 24pt;
+    top: 0%;
+    right: 5px;
+    background-color:blueviolet;
+    color:brown;
+}
+@media(max-width: 400px){
+    nav{
+        display: none;
+    }
+}
+a{
+    color:aqua;
+}
+main{
+    text-align: center;
+    background-color:chartreuse;
+    font-family:Arial;
+}
+h1{
+    font-size: 55pt;
+}
+p{
+    font-size: 15pt;
+}
+#welcome-section{
+    background-color:darkgoldenrod;
+    color:deeppink;
+    display: table-cell;
+    vertical-align: middle;
+    width: 85vw;
+    height: 85vh;
+}
+#projects{
+    background-color:darksalmon;
+    color: midnightblue;
+    display: table-cell;
+    vertical-align: middle;
+    width: 85vw;
+    height: 85vw;
+}
+#contact details{
+    background-color:gold;
+    color:lawngreen;
+    display: table-cell;
+    vertical-align: middle;
+    width:85vw;
+    height:85vw;
+}
